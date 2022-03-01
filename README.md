@@ -1,4 +1,4 @@
-Register yourself at https://www.dailycodingproblem.com/ to recieve daily coding questions asked by renown companies via mail.
+Register yourself at [Daily Coding Problem](https://www.dailycodingproblem.com/) to recieve daily coding questions asked by renown companies via mail.
 
 Practise Daily because Coding is all about practising and honing your skills.
 
