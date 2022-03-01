@@ -11,4 +11,4 @@ Solver : Pem Tshewang
 The solving techniques are on my own and you are permitted to send any critiques or suggestions.
 
 Thanks in advance:)
-Catch me here [![](https://imgs.search.brave.com/GnZAo29K6NTX4QaEAr6s3oGEe7oIDDFvwp7QeoYU1yE/rs:fit:1125:1125:1/g:ce/aHR0cDovL3BuZ2lt/Zy5jb20vdXBsb2Fk/cy9nb29nbGUvZ29v/Z2xlX1BORzE5NjM1/LnBuZw)](https://www.dailycodingproblem.com/)[[https://imgs.search.brave.com/GnZAo29K6NTX4QaEAr6s3oGEe7oIDDFvwp7QeoYU1yE/rs:fit:1125:1125:1/g:ce/aHR0cDovL3BuZ2lt/Zy5jb20vdXBsb2Fk/cy9nb29nbGUvZ29v/Z2xlX1BORzE5NjM1/LnBuZw|width=400px]]
+<img src="https://imgs.search.brave.com/GnZAo29K6NTX4QaEAr6s3oGEe7oIDDFvwp7QeoYU1yE/rs:fit:1125:1125:1/g:ce/aHR0cDovL3BuZ2lt/Zy5jb20vdXBsb2Fk/cy9nb29nbGUvZ29v/Z2xlX1BORzE5NjM1/LnBuZw" data-canonical-src="https://www.dailycodingproblem.com/" width="200" height="300" />
